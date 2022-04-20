@@ -1,0 +1,4 @@
+node_modules
+.env
+ca-certificate.cer
+.DS_Store
