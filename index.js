@@ -1,28 +1,27 @@
-const express = require('express')
-const mongoose = require('mongoose')
-const bodyParser = require('body-parser')
-require('dotenv').config()
-const app = express()
-const port = 3001
+const express = require("express");
+const http = require("http");
+const cors = require("cors");
+const cookieParser = require("cookie-parser");
 
-app.use(bodyParser.json())
+const { connectDB } = require("./src/database");
+const { PORT } = require("./src/config");
+const { API } = require("./src/routes");
+const { ErrorHandler } = require("./src/errors");
 
-// const get = require('./src/routes/get')
+const app = express();
+app.use(cors());
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use(cookieParser());
+connectDB();
+app.use("/api", API);
+app.use(ErrorHandler);
 
-// app.use('/post', get)
+// const txnHash =
+//   "0x6c0f0ee8f7ece368152038c46659d5c3f7cd7f451f8883612011c19d768f5a22";
+// web3.eth.getTransaction(txnHash, (err, res) => console.log(res));
 
-
-mongoose.connect(process.env.MONGO_DB_CONNECTION, { useNewUrlParser: true })
-
-const connection = mongoose.connection
-
-connection.once("open", () => {
-    console.log('DB is stablished')
-})
-
-
-
-
-app.listen(port, () => {
-    console.log(`app listening on port ${port}`)
-})
+const server = http.createServer(app);
+server.listen(PORT, () => {
+  console.log(`Server listening on port -> ${PORT}`);
+});
