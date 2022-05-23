@@ -8,7 +8,15 @@ const { PORT } = require("./src/config");
 const { API } = require("./src/routes");
 const { ErrorHandler } = require("./src/errors");
 
+// const swaggerUi = require('swagger-ui-express');
+// const swaggerDocument = require('./swagger.json');
+
+var options = {
+  explorer: true
+};
+
 const app = express();
+// app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument, options));
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));

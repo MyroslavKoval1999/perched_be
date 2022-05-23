@@ -1,30 +1,30 @@
 {
-    "name": "perched-be",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node index.js",
-        "dev": "nodemon",
-        "pm2start": "pm2 kill && pm2 start index.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "axios": "^0.25.0",
-        "cookie-parser": "^1.4.6",
-        "cors": "^2.8.5",
-        "crypto": "^1.0.1",
-        "dotenv": "^16.0.0",
-        "ethereum-status-checker": "^1.0.1",
-        "express": "^4.17.2",
-        "http": "0.0.1-security",
-        "jsonwebtoken": "^8.5.1",
-        "mongoose": "^6.2.1",
-        "nodemon": "^2.0.15",
-        "web3": "^1.7.0",
-        "yup": "^0.32.11"
-    }
+  "name": "perched-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon",
+    "pm2start": "pm2 kill && pm2 start index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "ethereum-status-checker": "^1.0.1",
+    "express": "^4.17.2",
+    "http": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15",
+    "web3": "^1.7.0",
+    "yup": "^0.32.11"
+  }
 }
