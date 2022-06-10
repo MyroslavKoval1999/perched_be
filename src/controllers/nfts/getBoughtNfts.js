@@ -2,6 +2,7 @@ const axios = require("axios");
 const { OPENSEA_KEY } = require("../../config");
 const { ApiError } = require("../../errors");
 const { OK } = require("../../constants/statusCode");
+const { EventModel } = require('../../models');
 
 module.exports = async (req, res, next) => {
   try {
@@ -18,11 +19,14 @@ module.exports = async (req, res, next) => {
       throw ApiError.BadRequest("No nfts found!");
     }
 
+    const events = EventModel.find({ guests: user._id }).select('title').lean();
+
     res.status(OK).json({
       status: OK,
       message: "Successfully!",
       qrTimeGenerated: new Date(),
       data: nfts[0],
+      events: events
     });
   } catch (error) {
     next(error);
