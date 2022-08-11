@@ -14,7 +14,7 @@ module.exports = async (req, res, next) => {
       method: "get",
       url: searchString,
       headers: { "X-API-KEY": OPENSEA_KEY, Host: "api.opensea.io" },
-    });
+    }).catch(console.log);
 
     const nfts = resp.data;
 

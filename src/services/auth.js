@@ -12,7 +12,7 @@ module.exports = {
     const nonce = generateNonce();
 
 
-    return await UserModel.findOneAndUpdate(
+    return UserModel.findOneAndUpdate(
       { publicAddress },
       { publicAddress, nonce },
       { upsert: true, new: true }

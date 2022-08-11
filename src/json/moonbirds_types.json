@@ -1,0 +1,622 @@
+[
+  {
+    "trait_type": "Eyes",
+    "types": [
+      {
+        "trait_type": "Eyes",
+        "value": "Rainbow",
+        "trait_count": 187
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry",
+        "trait_count": 1365
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Side-eye",
+        "trait_count": 1211
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Open",
+        "trait_count": 2356
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Moon",
+        "trait_count": 170
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Discerning",
+        "trait_count": 1259
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Relaxed",
+        "trait_count": 1258
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Fire",
+        "trait_count": 178
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Adorable",
+        "trait_count": 392
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Diamond",
+        "trait_count": 165
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heart",
+        "trait_count": 179
+      }
+    ]
+  },
+  {
+    "trait_type": "Beak",
+    "types": [
+      {
+        "trait_type": "Beak",
+        "value": "Short",
+        "trait_count": 4149
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Small",
+        "trait_count": 4215
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Long",
+        "trait_count": 1612
+      }
+    ]
+  },
+  {
+    "trait_type": "Background",
+    "types": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "trait_count": 1636
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "trait_count": 1663
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "trait_count": 1656
+      },
+      {
+        "trait_type": "Background",
+        "value": "Pink",
+        "trait_count": 1608
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "trait_count": 1669
+      },
+      {
+        "trait_type": "Background",
+        "value": "Green",
+        "trait_count": 1744
+      },
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red",
+        "trait_count": 6
+      },
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple",
+        "trait_count": 6
+      },
+      {
+        "trait_type": "Background",
+        "value": "Jade Green",
+        "trait_count": 6
+      },
+      {
+        "trait_type": "Background",
+        "value": "Cosmic Purple",
+        "trait_count": 6
+      }
+    ]
+  },
+  {
+    "trait_type": "Feathers",
+    "types": [
+      {
+        "trait_type": "Feathers",
+        "value": "Pink",
+        "trait_count": 500
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Purple",
+        "trait_count": 1122
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Black",
+        "trait_count": 1104
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Blue",
+        "trait_count": 1063
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Gray",
+        "trait_count": 1225
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Brown",
+        "trait_count": 1437
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Green",
+        "trait_count": 448
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "White",
+        "trait_count": 885
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Red",
+        "trait_count": 1842
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Bone",
+        "trait_count": 150
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Legendary Bone",
+        "trait_count": 25
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Metal",
+        "trait_count": 150
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Legendary Crescent",
+        "trait_count": 14
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Legendary Sage",
+        "trait_count": 9
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Legendary Professor",
+        "trait_count": 9
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Legendary Guardian",
+        "trait_count": 4
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Legendary Emperor",
+        "trait_count": 9
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Legendary Brave",
+        "trait_count": 4
+      }
+    ]
+  },
+  {
+    "trait_type": "Body",
+    "types": [
+      {
+        "trait_type": "Body",
+        "value": "Guardian",
+        "trait_count": 760
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tabby",
+        "trait_count": 1150
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tranquil",
+        "trait_count": 989
+      },
+      {
+        "trait_type": "Body",
+        "value": "Crescent",
+        "trait_count": 3538
+      },
+      {
+        "trait_type": "Body",
+        "value": "Sage",
+        "trait_count": 215
+      },
+      {
+        "trait_type": "Body",
+        "value": "Stark",
+        "trait_count": 1420
+      },
+      {
+        "trait_type": "Body",
+        "value": "Emperor",
+        "trait_count": 309
+      },
+      {
+        "trait_type": "Body",
+        "value": "Professor",
+        "trait_count": 550
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brave",
+        "trait_count": 695
+      },
+      {
+        "trait_type": "Body",
+        "value": "Skeleton",
+        "trait_count": 150
+      },
+      {
+        "trait_type": "Body",
+        "value": "Ruby Skeleton",
+        "trait_count": 25
+      },
+      {
+        "trait_type": "Body",
+        "value": "Robot",
+        "trait_count": 150
+      },
+      {
+        "trait_type": "Body",
+        "value": "Glitch",
+        "trait_count": 6
+      },
+      {
+        "trait_type": "Body",
+        "value": "Golden",
+        "trait_count": 25
+      },
+      {
+        "trait_type": "Body",
+        "value": "Enlightened",
+        "trait_count": 6
+      },
+      {
+        "trait_type": "Body",
+        "value": "Jade",
+        "trait_count": 6
+      },
+      {
+        "trait_type": "Body",
+        "value": "Cosmic",
+        "trait_count": 6
+      }
+    ]
+  },
+  {
+    "trait_type": "Headwear",
+    "types": [
+      {
+        "trait_type": "Headwear",
+        "value": "Wizard's Hat",
+        "trait_count": 187
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Mohawk (Pink)",
+        "trait_count": 193
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Moon Hat",
+        "trait_count": 383
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Lincoln",
+        "trait_count": 264
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Beanie",
+        "trait_count": 249
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Pirate's Hat",
+        "trait_count": 175
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Chromie",
+        "trait_count": 58
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Crescent Talisman",
+        "trait_count": 168
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Fire",
+        "trait_count": 325
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Headband",
+        "trait_count": 250
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Tiara",
+        "trait_count": 171
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Karate Band",
+        "trait_count": 233
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Space Helmet",
+        "trait_count": 254
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Queen's Crown",
+        "trait_count": 207
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Flower",
+        "trait_count": 105
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Witch's Hat",
+        "trait_count": 183
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bandana",
+        "trait_count": 193
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Skully",
+        "trait_count": 357
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Raincloud",
+        "trait_count": 256
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Durag",
+        "trait_count": 126
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Captain's Cap",
+        "trait_count": 202
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Forest Ranger",
+        "trait_count": 148
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Cowboy Hat",
+        "trait_count": 218
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Diamond",
+        "trait_count": 80
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Halo",
+        "trait_count": 228
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bucket Hat",
+        "trait_count": 145
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Gremplin",
+        "trait_count": 57
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Hero's Cap",
+        "trait_count": 120
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Tiny Crown",
+        "trait_count": 180
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bow",
+        "trait_count": 101
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Grail",
+        "trait_count": 176
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Backwards Hat",
+        "trait_count": 236
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Aviator's Cap",
+        "trait_count": 212
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Dancing Flame",
+        "trait_count": 125
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Mohawk (Green)",
+        "trait_count": 204
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Headphones",
+        "trait_count": 180
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Rubber Duck",
+        "trait_count": 92
+      }
+    ]
+  },
+  {
+    "trait_type": "Outerwear",
+    "types": [
+      {
+        "trait_type": "Outerwear",
+        "value": "Jean Jacket",
+        "trait_count": 191
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Hoodie Down",
+        "trait_count": 295
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Gold Chain",
+        "trait_count": 238
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Hoodie",
+        "trait_count": 247
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Punk Jacket",
+        "trait_count": 287
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Diamond Necklace",
+        "trait_count": 188
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Bomber Jacket",
+        "trait_count": 123
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Hero's Tunic",
+        "trait_count": 120
+      }
+    ]
+  },
+  {
+    "trait_type": "Eyewear",
+    "types": [
+      {
+        "trait_type": "Eyewear",
+        "value": "Eyepatch",
+        "trait_count": 201
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Rose-Colored Glasses",
+        "trait_count": 171
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Jobs Glasses",
+        "trait_count": 187
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Aviators",
+        "trait_count": 142
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Gazelles",
+        "trait_count": 171
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Half-moon Spectacles",
+        "trait_count": 75
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Black-rimmed Glasses",
+        "trait_count": 161
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses",
+        "trait_count": 174
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Big Tech",
+        "trait_count": 126
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3D Glasses",
+        "trait_count": 122
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Visor",
+        "trait_count": 134
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Monocle",
+        "trait_count": 136
+      }
+    ]
+  }
+]
